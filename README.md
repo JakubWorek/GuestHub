@@ -1,4 +1,4 @@
-# MongoDBProject
+# GuestHub
 1) Jakub Białecki, Przemysław Popowski, Jakub Worek
 2) Aplikacja 'GuestHub', czyli klon Airbnb - aplikacji do udostępniania swoich pokoi
 3) MongoDB, backend stworzony z pomoca Flaska
